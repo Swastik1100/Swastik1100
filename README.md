@@ -21,16 +21,10 @@
 
 <p align="center">
   <a href="https://github.com/Swastik1100">
-    <img src="https://github-readme-stats.vercel.app/api?username=Swastik1100&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&rank_icon=github&count_private=true&cache_seconds=86400" width="49.5%" alt="Swastik's GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swastik1100&theme=github_dark" width="49.5%" alt="Overview" />
   </a>
   <a href="https://github.com/Swastik1100">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik1100&theme=transparent&hide_border=true&fire=58a6ff&ring=58a6ff&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="49.5%" alt="Swastik's Streak Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Swastik1100">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik1100&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400" width="100%" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik1100&theme=transparent&hide_border=true&fire=58a6ff&ring=58a6ff&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="49.5%" alt="Streak Stats" />
   </a>
 </p>
 
