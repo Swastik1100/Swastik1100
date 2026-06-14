@@ -23,6 +23,7 @@
   <a href="https://github.com/Swastik1100">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Swastik1100&theme=github_dark" width="49.5%" alt="Overview" />
   </a>
+  <br>
   <a href="https://github.com/Swastik1100">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik1100&theme=transparent&hide_border=true&fire=58a6ff&ring=58a6ff&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="49.5%" alt="Streak Stats" />
   </a>
@@ -30,14 +31,3 @@
 
 ---
 
-### 📈 Contribution Velocity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swastik1100&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff" width="100%" alt="Contribution Graph" />
-</p>
-
----
-
-<p align="center">
-  <font size="2" color="#8b949e">Automated updates tracking production commits, repository cycles, and core analytics.</font>
-</p>
