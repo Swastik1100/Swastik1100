@@ -1,6 +1,6 @@
 # Hi, I'm Swastik Pandey 
 
-> IT undergraduate at NITJ, currently focused on learning and building optimized, technical, high-performance applications which primarily aims to solve real world problems which I and people have faced.
+> IT undergraduate at NITJ, currently focused on learning and building optimized, technical, easy to use applications which primarily aims to solve real world problems which I and people have faced.
 
 ---
 
